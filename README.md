@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
@@ -97,3 +98,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+=======
+# college-api
+College API is a RESTful API developed with Node.js, using the NestJS framework, written in TypeScript, and connected to a relational database using TypeORM. This API is designed to manage common entities and operations in a university environment, such as students, courses, faculty, enrollment, and more.
+>>>>>>> 2e25907b72f985edf11547796f95ffc419b358b7
